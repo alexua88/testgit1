@@ -1,6 +1,6 @@
 <?php
 
-print 1;
+print "version 2";
 
 ?>
 
